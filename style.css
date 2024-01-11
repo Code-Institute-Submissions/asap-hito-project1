@@ -1,0 +1,33 @@
+
+body{
+    background-color: black;
+    color: white;
+    font-family: fantasy, sans-serif;
+}
+header{
+    background-color: red;
+    color: black;
+}
+table{
+    border-color: black;
+    border-width: 1px;
+    background-color: red;
+    align-items: center;
+}
+body h3{
+    color: red;
+}
+footer{
+    background-color: red;
+    color: black;
+    text-align: right;
+}
+body p{
+    text-align: justify;
+}
+ul{
+    text-align: justify;
+}
+body h4{
+    color: red;
+}

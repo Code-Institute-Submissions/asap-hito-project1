@@ -2,13 +2,16 @@
 body{
     background-color: black;
     color: white;
-    font-family: fantasy, sans-serif;
+    font-family: Luminari, fantasy;
 }
 header{
     background-color: red;
     color: black;
+    position: fixed;
+    width: 100%;
 }
 table{
+    align-self: center;
     border-color: black;
     border-width: 1px;
     background-color: red;
@@ -21,13 +24,15 @@ footer{
     background-color: red;
     color: black;
     text-align: right;
+    position: fixed;
 }
 body p{
     text-align: justify;
 }
-ul{
+ul > li{
     text-align: justify;
 }
 body h4{
     color: red;
 }
+
